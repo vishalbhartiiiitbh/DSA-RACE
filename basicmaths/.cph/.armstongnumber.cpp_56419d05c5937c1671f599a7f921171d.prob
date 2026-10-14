@@ -1,0 +1,1 @@
+{"name":"Local: armstongnumber","url":"/home/vishal/dsa/basicmaths/armstongnumber.cpp","tests":[{"id":1789674336899,"input":"1634","output":"true"},{"id":1789675242073,"input":"45","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/basicmaths/armstongnumber.cpp","group":"local","local":true}
