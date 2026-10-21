@@ -1,0 +1,1 @@
+{"name":"Local: 2nd","url":"/home/vishal/dsa/codechef/2nd.cpp","tests":[{"id":1792593490776,"input":"6\n10 7\n10 9\n10 40\n7 0\n1 3\n1 5","output":"3\n6\n10\n0\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/codechef/2nd.cpp","group":"local","local":true}
