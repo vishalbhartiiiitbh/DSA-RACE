@@ -11,6 +11,8 @@ class Solution{
     //     n=n/10;
     //    }
     // fopr only want count of number then apply this
+
+    
     int cnt= (int)(log10(n)+1);
         return cnt;
     } 
