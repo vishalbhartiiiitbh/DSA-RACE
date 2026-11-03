@@ -15,6 +15,7 @@ void Misha()
     for (char c : s)
     {
         if (c == last_button)
+        
         {
             current_streak++;
         }
