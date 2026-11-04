@@ -1,0 +1,1 @@
+{"name":"Local: alarm_alert","url":"/home/vishal/dsa/codechef/263/alarm_alert.cpp","tests":[{"id":1793804893691,"input":"5\n3 5 0\n2 3 1\n6 8 2\n9 9 0\n987799 975780 200","output":"15\n3\n8\n9\n4731557220"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/codechef/263/alarm_alert.cpp","group":"local","local":true}
